@@ -1,2 +1,2 @@
-// JavaScript Test Script v1
-console.log("Hello, World!");
+// JavaScript Test Script v2
+console.log("Hello, World! version2");
